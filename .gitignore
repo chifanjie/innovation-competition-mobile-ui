@@ -1,0 +1,12 @@
+.hbuilderx/
+unpackage/
+node_modules/
+dist/
+build/
+.cache/
+*.log
+*.apk
+*.ipa
+.env
+.env.*
+project.private.config.json
